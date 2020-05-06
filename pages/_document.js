@@ -1,0 +1,19 @@
+import Document, { Html, Head, Main, NextScript } from 'next/document';
+
+class HTMLDocument extends Document {
+  render() {
+    return (
+      <Html>
+        <Head>
+          <link rel="shortcut icon" href="/images/favicon.ico" />
+        </Head>
+        <body>
+          <Main />
+          <NextScript />
+        </body>
+      </Html>
+    );
+  }
+}
+
+export default HTMLDocument;
