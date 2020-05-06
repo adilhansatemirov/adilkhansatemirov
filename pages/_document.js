@@ -6,7 +6,7 @@ class HTMLDocument extends Document {
       <Html>
         <Head>
           <link rel="shortcut icon" href="/images/favicon.ico" />
-          <link
+          {/* <link
             rel="preload"
             href="/fonts/PermanentMarker-Regular.ttf"
             as="font"
@@ -29,7 +29,7 @@ class HTMLDocument extends Document {
             href="/fonts/Teko/Teko-Medium.ttf"
             as="font"
             crossOrigin=""
-          />
+          /> */}
         </Head>
         <body>
           <Main />
