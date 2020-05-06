@@ -6,13 +6,13 @@ class HTMLDocument extends Document {
       <Html>
         <Head>
           <link rel="shortcut icon" href="/images/favicon.ico" />
-          {/* <link
+          <link
             rel="preload"
             href="/fonts/PermanentMarker-Regular.ttf"
             as="font"
             crossOrigin=""
           />
-          <link
+          {/* <link
             rel="preload"
             href="/fonts/Teko/Teko-Light.ttf"
             as="font"
@@ -28,8 +28,8 @@ class HTMLDocument extends Document {
             rel="preload"
             href="/fonts/Teko/Teko-Medium.ttf"
             as="font"
-            crossOrigin=""
-          /> */}
+            crossOrigin="" */}
+          />
         </Head>
         <body>
           <Main />
