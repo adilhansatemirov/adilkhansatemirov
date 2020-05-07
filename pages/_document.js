@@ -20,7 +20,7 @@ class HTMLDocument extends Document {
           />
           <link
             rel="preload"
-            href="/fonts/Jost/Jost-Medium.ttf"
+            href="/fonts/Jost/Jost-SemiBold.ttf"
             as="font"
             crossOrigin=""
           />

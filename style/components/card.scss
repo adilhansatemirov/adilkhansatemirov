@@ -7,7 +7,16 @@
 }
 
 .card__title {
-  font-family: 'Jost-Medium';
+  font-family: 'Jost-SemiBold';
+}
+
+.card__time {
+  margin-top: 10px;
+  opacity: 0.8;
+}
+
+.card__description {
+  margin-top: 10px;
 }
 
 .card__image-container {
@@ -18,4 +27,8 @@
   width: 200px;
   object-fit: cover;
   object-position: center;
+}
+
+.card__text--bold {
+  font-family: 'Jost-SemiBold';
 }

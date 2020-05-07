@@ -10,5 +10,8 @@ export default () => (
     <Header />
     <Section text={text.education}/>
     <Section text={text.jobs}/>
+    <Section text={text.projects}/>
+    <Section text={text.internships}/>
+    <Section text={text.random}/>
   </>
 );
