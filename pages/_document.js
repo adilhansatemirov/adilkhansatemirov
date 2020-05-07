@@ -12,23 +12,17 @@ class HTMLDocument extends Document {
             as="font"
             crossOrigin=""
           />
-          {/* <link
+          <link
             rel="preload"
-            href="/fonts/Teko/Teko-Light.ttf"
+            href="/fonts/Jost/Jost-Regular.ttf"
             as="font"
             crossOrigin=""
           />
           <link
             rel="preload"
-            href="/fonts/Teko/Teko-Regular.ttf"
+            href="/fonts/Jost/Jost-Medium.ttf"
             as="font"
             crossOrigin=""
-          />
-          <link
-            rel="preload"
-            href="/fonts/Teko/Teko-Medium.ttf"
-            as="font"
-            crossOrigin="" */}
           />
         </Head>
         <body>
