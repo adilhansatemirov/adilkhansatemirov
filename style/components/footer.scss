@@ -1,0 +1,21 @@
+.footer {
+  background: #000;
+  color: #fff;
+  padding: 50px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.footer__contact {
+  display: flex;
+  align-items: center;
+}
+
+.footer__telegram-link {
+  margin-left: 10px;
+}
+
+.footer__telegram-icon {
+  filter: invert(1);
+  padding: 2px;
+}

@@ -2,8 +2,21 @@
   margin-bottom: 30px;
   display: flex;
   box-shadow: 10px 20px 70px -70px rgba(0, 0, 0, 0.75);
-  font-family: 'Jost-Regular';
   font-size: 20px;
+  max-width: 1200px;
+  margin: 0 auto 30px;
+
+  @media (max-width: 1000px) {
+    font-size: 18px;
+  }
+
+  @media (max-width: 800px) {
+    font-size: 16px;
+  }
+
+  @media (max-width: 440px) {
+    flex-direction: column;
+  }
 }
 
 .card__title {
@@ -13,20 +26,52 @@
 .card__time {
   margin-top: 10px;
   opacity: 0.8;
+
+  @media (max-width: 800px) {
+    margin-top: 6px;
+  }
 }
 
 .card__description {
   margin-top: 10px;
+
+  @media (max-width: 800px) {
+    margin-top: 6px;
+  }
+}
+
+.card__info-container {
+  padding: 10px;
 }
 
 .card__image-container {
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 .card__image {
   width: 200px;
   object-fit: cover;
   object-position: center;
+
+  @media (max-width: 1000px) {
+    width: 180px;
+    height: 100%;
+  }
+
+  @media (max-width: 800px) {
+    width: 160px;
+    height: 100%;
+  }
+
+  @media (max-width: 600px) {
+    width: 160px;
+    height: 160px;
+  }
+
+  @media (max-width: 440px) {
+    width: 100%;
+    height: 160px;
+  }
 }
 
 .card__text--bold {

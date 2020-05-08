@@ -7,4 +7,12 @@
   font-size: 40px;
   text-align: center;
   font-family: 'PermanentMarker';
+
+  @media (max-width: 800px) {
+    font-size: 36px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 30px;
+  }
 }

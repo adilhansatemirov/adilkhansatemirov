@@ -5,7 +5,7 @@ class HTMLDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="shortcut icon" href="/images/favicon.ico" />
+          <link rel="shortcut icon" href="/images/icons/favicon.ico" />
           <link
             rel="preload"
             href="/fonts/PermanentMarker-Regular.ttf"
