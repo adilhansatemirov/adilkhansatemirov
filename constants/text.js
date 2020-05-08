@@ -105,3 +105,11 @@ export const skills = [
   'WebSockets',
   'Heroku',
 ];
+
+export const consoleText = `
+▄▀█ █▀▄ █ █   █▄▀ █ █ ▄▀█ █▄ █
+█▀█ █▄▀ █ █▄▄ █ █ █▀█ █▀█ █ ▀█
+
+█▀ ▄▀█ ▀█▀ █▀▀ █▀▄▀█ █ █▀█ █▀█ █ █
+▄█ █▀█  █  ██▄ █ ▀ █ █ █▀▄ █▄█ ▀▄▀
+`;

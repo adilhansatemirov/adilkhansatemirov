@@ -4,10 +4,11 @@ import Section from '../components/shared/Section';
 import Skills from '../components/Skills';
 import Footer from '../components/Footer';
 
-import { sections } from '../constants/text';
+import { sections, consoleText } from '../constants/text';
 
 import '../style/index.scss';
 
+console.log(consoleText);
 export default () => (
   <>
     <Header />
