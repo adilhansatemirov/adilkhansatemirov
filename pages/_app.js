@@ -15,7 +15,7 @@ export default () => (
     {sections.map((section) => (
       <Section key={section.id} section={section} />
     ))}
-    {/* <Skills /> */}
+    <Skills />
     <Footer />
   </>
 );

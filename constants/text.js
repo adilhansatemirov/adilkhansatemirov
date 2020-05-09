@@ -7,6 +7,7 @@ export const sections = [
         id: 1,
         title: 'Suleiman Demirel University',
         time: '2017 - 2021',
+        link: 'https://sdu.edu.kz/',
         image: 'sdu.jpg',
         description: `I'm in fourth year of studies towards a bachelor's in <span class="card__text--bold">Information Systems</span> at Suleiman Demirel University.`,
       },
@@ -21,6 +22,7 @@ export const sections = [
         title: 'DAR Technologies',
         time: '2019 - now',
         image: 'dar.png',
+        link: 'https://darglobal.com/',
         description:
           'My current workplace is at DAR Technologies on a <span class="card__text--bold">Front-end developer</span> position. I develope webapps with Front-end frameworks like React, Vue.',
       },
@@ -43,8 +45,9 @@ export const sections = [
         title: 'Cafe Automation',
         time: '2019',
         image: 'degirmen.jpg',
+        link: 'https://www.youtube.com/watch?v=FAF5iwkBBqw',
         description:
-          'I launched my own solution for automating cafe. You can check the demo using <a class="link">this link</a>. The first client was a branch of Degirmen cafe. The project is monetized based on an annual subscription.',
+          'I launched my own solution for automating cafe. You can check the demo using <a class="link link--underlined" href="https://www.youtube.com/watch?v=FAF5iwkBBqw" target="_blank" rel="noopener">this link</a>. The first client was a branch of Degirmen cafe. The project is monetized based on an annual subscription.',
       },
     ],
   },
@@ -57,6 +60,7 @@ export const sections = [
         title: 'DAR Technologies',
         time: '2019',
         image: 'dar.png',
+        link: 'https://darglobal.com/',
         description:
           'In 2019 after my second year of university studies I got internship at DAR Technologies in <span class="card__text--bold">Front-end development</span>.',
       },
