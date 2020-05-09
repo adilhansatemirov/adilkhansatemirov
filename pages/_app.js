@@ -11,6 +11,7 @@ import '../style/index.scss';
 console.log(consoleText);
 export default () => (
   <>
+    <title>Adilkhan Satemirov</title>
     <Header />
     {sections.map((section) => (
       <Section key={section.id} section={section} />
