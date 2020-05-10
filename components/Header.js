@@ -1,5 +1,5 @@
 export default () => (
-  <div className="header">
+  <header className="header" id="adilkhanSatemirov">
     <div className="header__title-container">
       <h1 className="header__title">
         <span className="header__title-greetings">Hi, I'm</span>
@@ -12,5 +12,5 @@ export default () => (
     <div className="header__image-container">
       <img src="/images/poster.jpg" alt="adilkhansatemirov" className="header__image" />
     </div>
-  </div>
+  </header>
 );

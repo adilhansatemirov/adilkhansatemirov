@@ -11,4 +11,16 @@
   text-align: center;
   margin: 0 10px 15px 10px;
   white-space: nowrap;
+  transition: all 0.2s;
+  cursor: pointer;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 12px 10px 9px -12px rgba(0, 0, 0, 0.75);
+  }
+
+  &:active {
+    transform: translateY(0px);
+    box-shadow: 12px 10px 9px -14px rgba(0, 0, 0, 0.75);
+  }
 }

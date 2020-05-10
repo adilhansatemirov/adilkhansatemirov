@@ -1,7 +1,7 @@
 import { skills } from '../constants/text';
 
 export default () => (
-  <section className="container section">
+  <section className="container section" id="skills">
     <h3 className="section__title">My Tech Stack</h3>
     <ul className="skills-list">
       {skills.map((skill) => (

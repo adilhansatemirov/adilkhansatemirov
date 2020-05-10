@@ -1,6 +1,6 @@
 export const sections = [
   {
-    id: 1,
+    id: 'education',
     title: 'Education',
     cards: [
       {
@@ -14,7 +14,7 @@ export const sections = [
     ],
   },
   {
-    id: 2,
+    id: 'jobExperience',
     title: 'Job Experience',
     cards: [
       {
@@ -31,13 +31,14 @@ export const sections = [
         title: 'Lorem Ipsum LLC',
         time: '2020 - now',
         image: 'lorem-ipsum.png',
+        imagePosition: 'bottom center',
         description:
           'Now I also have a freelance contract with Lorem Ipsum LLC, Pittsburgh as a remote <span class="card__text--bold">Full-stack engineer</span>. I develop a webapps on Node, Ruby on Rails, React.',
       },
     ],
   },
   {
-    id: 3,
+    id: 'commertialProjects',
     title: 'Commertial Projects',
     cards: [
       {
@@ -52,7 +53,7 @@ export const sections = [
     ],
   },
   {
-    id: 4,
+    id: 'internships',
     title: 'Internships',
     cards: [
       {
@@ -67,8 +68,8 @@ export const sections = [
     ],
   },
   {
-    id: 5,
-    title: 'Random accomplishments',
+    id: 'randomAccomplishments',
+    title: 'Random Accomplishments',
     cards: [
       {
         id: 1,

@@ -1,5 +1,5 @@
 export default () => (
-  <footer className="footer">
+  <footer className="footer" id="contacts">
     <div className="footer__contact">
       <span>Contact me on Telegram</span>
       <a href="https://web.telegram.org/#/im?p=@Satemirov" target="_blank" rel="noopener" className="footer__telegram-link">
