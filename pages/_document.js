@@ -5,10 +5,11 @@ class HTMLDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+          <meta name="description" content="This page is a portfolio site of Adilkhan Satemirov"></meta>
           <meta
-            name="Description"
-            content="This page is a portfolio site of Adilkhan Satemirov"
-          ></meta>
+            name="keywords"
+            content="Adilkhan, Satemirov, Developer, Suleiman Demirel University, Dar, React, Node"
+          />
           <link rel="shortcut icon" href="/images/icons/favicon.ico" />
           <link rel="preload" href="/fonts/PermanentMarker-Regular.ttf" as="font" crossOrigin="" />
           <link rel="preload" href="/fonts/Jost/Jost-Regular.ttf" as="font" crossOrigin="" />
