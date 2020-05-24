@@ -12,10 +12,22 @@
 }
 
 .footer__telegram-link {
-  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer__telegram-contact {
+  opacity: 0.3;
+}
+
+.footer__telegram-message {
+  display: flex;
+  align-items: center;
 }
 
 .footer__telegram-icon {
   filter: invert(1);
   padding: 2px;
+  margin-left: 5px;
 }

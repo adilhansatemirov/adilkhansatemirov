@@ -24,7 +24,7 @@ export const sections = [
         image: 'dar.png',
         link: 'https://darglobal.com/',
         description:
-          'My current workplace is at DAR Technologies on a <span class="card__text--bold">Front-end developer</span> position. I develope webapps with Front-end frameworks like React, Vue.',
+          'My current workplace is DAR Technologies on a <span class="card__text--bold">Front-end developer</span> position. I\'m working on webapps with front-end frameworks React, Vue.',
       },
       {
         id: 2,
@@ -33,7 +33,7 @@ export const sections = [
         image: 'lorem-ipsum.png',
         imagePosition: 'bottom center',
         description:
-          'Now I also have a freelance contract with Lorem Ipsum LLC, Pittsburgh as a remote <span class="card__text--bold">Full-stack engineer</span>. I develop a webapps on Node, Ruby on Rails, React.',
+          'I also have a freelance contract with Lorem Ipsum LLC, Pittsburgh as a remote <span class="card__text--bold">Full-stack engineer</span>. I develop webapps on Node, Ruby on Rails, React.',
       },
     ],
   },
@@ -78,7 +78,7 @@ export const sections = [
         image: 'award.jpg',
         imagePosition: 'top center',
         description:
-          'During my freshman year in the univerity, competition "SDU Dorm film festival" took place. I received a "Best Actor" award.',
+          'During my freshman year in the univerity, the competition "SDU Dorm film festival" took place. I received the "Best Actor" award.',
       },
       {
         id: 2,
