@@ -60,7 +60,7 @@ export const sections = [
         id: 1,
         title: 'DAR Technologies',
         time: '2019',
-        image: 'dar.png',
+        image: 'dar.jpg',
         link: 'https://darglobal.com/',
         description:
           'In 2019 after my second year of university studies I got internship at DAR Technologies in <span class="card__text--bold">Front-end development</span>.',
