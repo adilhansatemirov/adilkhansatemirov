@@ -21,7 +21,7 @@ export const sections = [
         id: 1,
         title: 'DAR Technologies',
         time: '2019 - now',
-        image: 'dar.png',
+        image: 'dar.jpg',
         link: 'https://darglobal.com/',
         description:
           'My current workplace is DAR Technologies on a <span class="card__text--bold">Front-end developer</span> position. I\'m working on webapps with front-end frameworks React, Vue.',
