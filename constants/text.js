@@ -20,11 +20,11 @@ export const sections = [
       {
         id: 1,
         title: 'DAR Technologies',
-        time: '2019 - now',
+        time: '2019 - 2020',
         image: 'dar.jpg',
         link: 'https://darglobal.com/',
         description:
-          'My current workplace is DAR Technologies on a <span class="card__text--bold">Front-end developer</span> position. I\'m working on webapps with front-end frameworks React, Vue.',
+          'My first workplace was DAR Technologies on a <span class="card__text--bold">Front-end developer</span> position. I was working on webapps with front-end frameworks React, Vue.',
       },
       {
         id: 2,
@@ -33,7 +33,7 @@ export const sections = [
         image: 'lorem-ipsum.png',
         imagePosition: 'bottom center',
         description:
-          'I also have a freelance contract with Lorem Ipsum LLC, Pittsburgh as a remote <span class="card__text--bold">Full-stack engineer</span>. I develop webapps on Node, Ruby on Rails, React.',
+          'Now I have a freelance contract with Lorem Ipsum LLC, Pittsburgh as a remote <span class="card__text--bold">Full-stack engineer</span>. I develop webapps on Node, Ruby on Rails, React.',
       },
     ],
   },
