@@ -22,18 +22,18 @@ export const sections = [
         title: 'DAR Technologies',
         time: '2019 - 2020',
         image: 'dar.jpg',
-        link: 'https://darglobal.com/',
+        link: 'https://www.linkedin.com/company/dar-technologies/',
         description:
           'My first workplace was DAR Technologies on a <span class="card__text--bold">Front-end developer</span> position. I was working on webapps with front-end frameworks React, Vue.',
       },
       {
         id: 2,
-        title: 'Lorem Ipsum LLC',
+        title: 'Inhome Accountants',
         time: '2020 - now',
-        image: 'lorem-ipsum.png',
-        imagePosition: 'bottom center',
+        image: 'inhome.png',
+        link: 'https://www.linkedin.com/company/inhomeaccountants/',
         description:
-          'Now I have a freelance contract with Lorem Ipsum LLC, Pittsburgh as a remote <span class="card__text--bold">Full-stack engineer</span>. I develop webapps on Node, Ruby on Rails, React.',
+          'Now I have a freelance contract with Lorem Ipsum LLC, Pittsburgh as a remote <span class="card__text--bold">Full-stack engineer</span>. I develop webapps on Ruby on Rails, Node.js, React.js. Current project is Inhome Accountants.',
       },
     ],
   },
@@ -61,7 +61,7 @@ export const sections = [
         title: 'DAR Technologies',
         time: '2019',
         image: 'dar.jpg',
-        link: 'https://darglobal.com/',
+        link: 'https://www.linkedin.com/company/dar-technologies/',
         description:
           'In 2019 after my second year of university studies I got internship at DAR Technologies in <span class="card__text--bold">Front-end development</span>.',
       },
