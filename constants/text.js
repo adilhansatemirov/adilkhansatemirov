@@ -6,10 +6,10 @@ export const sections = [
       {
         id: 1,
         title: 'Suleiman Demirel University',
-        time: '2017 - 2021',
+        time: '2015 - 2019',
         link: 'https://sdu.edu.kz/',
         image: 'sdu.jpg',
-        description: `I'm in fourth year of studies towards a bachelor's in <span class="card__text--bold">Information Systems</span> at Suleiman Demirel University.`,
+        description: `I graduated from Suleiman Demirel University in <span class="card__text--bold">Information Systems</span>.`,
       },
     ],
   },
