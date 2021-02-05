@@ -74,7 +74,7 @@ export const sections = [
       {
         id: 1,
         title: 'Best Actor Award Winner',
-        time: '2017',
+        time: '2015',
         image: 'award.jpg',
         imagePosition: 'top center',
         description:
