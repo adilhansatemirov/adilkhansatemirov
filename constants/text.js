@@ -63,7 +63,7 @@ export const sections = [
         image: 'dar.jpg',
         link: 'https://www.linkedin.com/company/dar-technologies/',
         description:
-          'In 2019 after my second year of university studies I got internship at DAR Technologies in <span class="card__text--bold">Front-end development</span>.',
+          'In my senior year of university studies I got internship at DAR Technologies in <span class="card__text--bold">Front-end development</span>.',
       },
     ],
   },
