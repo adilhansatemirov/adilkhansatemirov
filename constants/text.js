@@ -29,11 +29,20 @@ export const sections = [
       {
         id: 2,
         title: 'Inhome Accountants',
-        time: '2020 - now',
+        time: '2020 - 2021',
         image: 'inhome.png',
         link: 'https://www.linkedin.com/company/inhomeaccountants/',
         description:
-          'Now I have a freelance contract with Lorem Ipsum LLC, Pittsburgh as a remote <span class="card__text--bold">Full-stack engineer</span>. I develop webapps on Ruby on Rails, Node.js, React.js. Current project is Inhome Accountants.',
+          'I had a freelance contract with Lorem Ipsum LLC, Pittsburgh as a remote <span class="card__text--bold">Full-stack engineer</span>. I developed webapps on Ruby on Rails, Node.js, React.js. Main project was Inhome Accountants.',
+      },
+      {
+        id: 3,
+        title: 'EPAM Systems',
+        time: '2021 - now',
+        image: 'epam.png',
+        link: 'https://www.linkedin.com/company/epam-systems',
+        description:
+          'Now I am employed at EPAM Systems as a <span class="card__text--bold">Software engineer</span>.',
       },
     ],
   },
